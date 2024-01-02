@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi there ! This is my blog,
+I just write here all the stuff that goes through my head.
+Feel free to have a look and send me a mail if you have a remark.
